@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwertycho
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning databases
+- 🌱 I’m currently learning c++
 
 <!---
 qwertycho/qwertycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
