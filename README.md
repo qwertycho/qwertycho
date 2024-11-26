@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @qwertycho
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning c#
+- 👋 Hi, I’m @qwertycho, developer at iXware, c# enjoyer, fulltime linux user
+- 🌱 I’m currently learning data-analytics.
+- ❤️ linux
+- 🖥️ homelab sysadmin
 
 <!---
 qwertycho/qwertycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
