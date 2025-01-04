@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @qwertycho, developer at iXware, c# enjoyer, fulltime linux user
-- 🌱 I’m currently learning data-analytics.
 - ❤️ linux
 - 🖥️ homelab sysadmin
 
